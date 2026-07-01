@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0200/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 牟梨曼陀羅呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1007.xml
+    old_id: T19n1007
+hash: sha256:07527f29da2c3da24519908e2a954be5134e02bc2d4d8a7a8a91881ba88aae04

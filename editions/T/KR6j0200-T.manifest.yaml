@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0200/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0200/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 牟梨曼陀羅呪經
+  identifiers:
+    krp: KR6j0200
+    cbeta: T19n1007
+    cbeta_old_id: T19n1007
+    authorityid: CA0002315
+    json_key: T1007
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1007.xml
+    old_id: T19n1007
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0200_000-T.yaml, hash: 'sha256:07527f29da2c3da24519908e2a954be5134e02bc2d4d8a7a8a91881ba88aae04'}
+  - {seq: 1, filename: KR6j0200_001-T.yaml, hash: 'sha256:8e659a73387bdbcb7d2f433968cbd213e25ea3fa9608708c815ec8574e3a8106'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0200_000-T.markers.yaml, hash: 'sha256:2c046e4f83d8ffb8baf54b49e13358b2587d306c7ce1290b7798df955e53adde'}
+  - {seq: 1, role: markers, filename: assets/KR6j0200_001-T.markers.yaml, hash: 'sha256:79a2d33206bf4d6038e7520fa3b9633bc2e1fa617389461d9c30d6d62ef1252b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0200_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 14275
+  label: 牟梨曼陀羅呪經
+  type: juan
+  level: 1
+hash: sha256:f222229e881440fc982a14634fe4b22eab3d5b38a52941bc01124574dde0c0cf
