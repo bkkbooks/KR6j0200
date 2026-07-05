@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0200_000.yaml, hash: 'sha256:07527f29da2c3da24519908e2a954be5134e02bc2d4d8a7a8a91881ba88aae04'}
-  - {seq: 1, filename: KR6j0200_001.yaml, hash: 'sha256:74117e7f951350833bfc4f989be1288d2e140ddc33c7648f81d9f3da7bc3fca8'}
+  - {seq: 1, filename: KR6j0200_001.yaml, hash: 'sha256:8e659a73387bdbcb7d2f433968cbd213e25ea3fa9608708c815ec8574e3a8106'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0200_001.markers.yaml, hash: 'sha256:ca456445ea643b69190f9ee0b50fdc3ca1882a9c500c7968fa6d0c975cb53960'}
+  - {seq: 0, role: markers, filename: assets/KR6j0200_000.markers.yaml, hash: 'sha256:61db5fee2e30ae597e2c418a0d1f5ca523be9cbbf860f982fded3c8b41bf3bb2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0200_001.markers.yaml, hash: 'sha256:b53bcfb7c4ceb0cf55f86dfd16646305122be4b623f972bb49c02da33f36d785'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 牟梨曼陀羅呪經
   type: juan
   level: 1
-hash: sha256:c5c28985d5bc1f6bfcb595c46419ae6aaf07da756903580c4827154ff0760d30
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cf54d26d2c24d1937394a6c83d2767f6b940f3d80358ab09daabfa69ac6c7021
