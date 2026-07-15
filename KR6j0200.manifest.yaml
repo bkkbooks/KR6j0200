@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0200/v1
 canonical_location: https://kanripo.org/bkk/KR6j0200/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 牟梨曼陀羅呪經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0200_000.yaml, hash: 'sha256:07527f29da2c3da24519908e2a954be5134e02bc2d4d8a7a8a91881ba88aae04'}
-  - {seq: 1, filename: KR6j0200_001.yaml, hash: 'sha256:8e659a73387bdbcb7d2f433968cbd213e25ea3fa9608708c815ec8574e3a8106'}
+  - {seq: 1, filename: KR6j0200_001.yaml, hash: 'sha256:11016da4291c5cf1e95b6c3aeae61127b378ddbc126c4269930f75a99ce0cf7d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0200_000.markers.yaml, hash: 'sha256:61db5fee2e30ae597e2c418a0d1f5ca523be9cbbf860f982fded3c8b41bf3bb2'}
-  - {seq: 1, role: markers, filename: assets/KR6j0200_001.markers.yaml, hash: 'sha256:b53bcfb7c4ceb0cf55f86dfd16646305122be4b623f972bb49c02da33f36d785'}
+  - {seq: 1, role: markers, filename: assets/KR6j0200_001.markers.yaml, hash: 'sha256:d3f29068b2e7ec675e4c4c33c247b7984325aec0ac30c182d1960de0b139a67e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 牟梨曼陀羅呪經
   type: juan
   level: 1
-hash: sha256:cf54d26d2c24d1937394a6c83d2767f6b940f3d80358ab09daabfa69ac6c7021
+hash: sha256:82bda269cc30c5b13672a89b84cc97afdc928efa3b7940f54a4eecf00993e3af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
